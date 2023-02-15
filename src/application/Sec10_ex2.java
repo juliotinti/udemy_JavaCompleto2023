@@ -27,7 +27,7 @@ public class Sec10_ex2 {
 		}
 		System.out.printf("\nSOMA = %.2f", soma);
 		System.out.printf("\nMEDIA = %.2f", soma/vetor.length);
-		
+		sc.close();
 	}
 
 }

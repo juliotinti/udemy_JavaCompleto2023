@@ -23,7 +23,7 @@ public class Sec10_ex1 {
 			if(v < 0)
 				System.out.println(v);
 		}
-		
+		sc.close();
 	}
 
 }

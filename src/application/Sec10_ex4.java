@@ -28,6 +28,7 @@ public class Sec10_ex4 {
 			}
 		}
 		System.out.printf("\n\nQUANTIDADE DE PARES: %d", qtd);
+		sc.close();
 	}
 
 }

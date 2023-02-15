@@ -42,7 +42,7 @@ public class Sec10_ex5 {
 				System.out.print(occupiedRooms);
 			}
 		}
-
+		sc.close();
 	}
 
 }

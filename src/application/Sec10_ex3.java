@@ -51,7 +51,7 @@ public class Sec10_ex3
 				System.out.println(dados[i].getName());
 		}
 
-		
+		sc.close();
 	}
 	
 }
