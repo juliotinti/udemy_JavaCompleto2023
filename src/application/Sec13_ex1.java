@@ -5,10 +5,10 @@ import java.time.format.DateTimeFormatter;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Sec13_department;
-import entities.Sec13_hourContract;
-import entities.Sec13_worker;
-import entities.enums.Sec13_workerLevel;
+import model.entities.Sec13_department;
+import model.entities.Sec13_hourContract;
+import model.entities.Sec13_worker;
+import model.enums.Sec13_workerLevel;
 
 public class Sec13_ex1 {
 

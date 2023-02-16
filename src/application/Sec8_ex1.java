@@ -3,7 +3,7 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Sec8_rectangle;
+import model.entities.Sec8_rectangle;
 
 public class Sec8_ex1 {
 

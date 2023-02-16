@@ -1,9 +1,9 @@
-package entities;
+package model.entities;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import entities.enums.Sec13_workerLevel;
+import model.enums.Sec13_workerLevel;
 
 public class Sec13_worker 
 {

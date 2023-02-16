@@ -1,11 +1,11 @@
-package entities;
+package model.entities;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 
-import entities.enums.Aula_enum_orderStatus;
+import model.enums.Aula_enum_orderStatus;
 
 public class Sec13_order 
 {

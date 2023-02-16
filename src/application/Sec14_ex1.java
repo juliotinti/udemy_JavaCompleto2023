@@ -7,9 +7,9 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Sec14_importedProduct;
-import entities.Sec14_product;
-import entities.Sec14_usedProduct;
+import model.entities.Sec14_importedProduct;
+import model.entities.Sec14_product;
+import model.entities.Sec14_usedProduct;
 
 public class Sec14_ex1 {
 

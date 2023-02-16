@@ -6,11 +6,11 @@ import java.time.format.DateTimeFormatter;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Sec13_client;
-import entities.Sec13_order;
-import entities.Sec13_orderItem;
-import entities.Sec13_product;
-import entities.enums.Aula_enum_orderStatus;
+import model.entities.Sec13_client;
+import model.entities.Sec13_order;
+import model.entities.Sec13_orderItem;
+import model.entities.Sec13_product;
+import model.enums.Aula_enum_orderStatus;
 
 public class Sec13_ex3 {
 

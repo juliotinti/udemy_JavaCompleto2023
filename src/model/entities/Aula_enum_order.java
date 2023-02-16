@@ -1,8 +1,8 @@
-package entities;
+package model.entities;
 
 import java.time.LocalDate;
 
-import entities.enums.Aula_enum_orderStatus;
+import model.enums.Aula_enum_orderStatus;
 
 public class Aula_enum_order 
 {

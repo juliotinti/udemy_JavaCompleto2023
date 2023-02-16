@@ -3,7 +3,7 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Sec8_student;
+import model.entities.Sec8_student;
 
 public class Sec8_ex3 
 {

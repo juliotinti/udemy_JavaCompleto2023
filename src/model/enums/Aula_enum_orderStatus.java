@@ -1,4 +1,4 @@
-package entities.enums;
+package model.enums;
 
 public enum Aula_enum_orderStatus 
 {

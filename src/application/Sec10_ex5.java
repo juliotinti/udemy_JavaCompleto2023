@@ -2,7 +2,7 @@ package application;
 
 import java.util.Scanner;
 
-import entities.Sec10_rooms;
+import model.entities.Sec10_rooms;
 
 public class Sec10_ex5 {
 

@@ -3,7 +3,7 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Sec10_pessoa;
+import model.entities.Sec10_pessoa;
 
 public class Sec10_ex3 
 {

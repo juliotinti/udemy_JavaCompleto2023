@@ -3,8 +3,8 @@ package application;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-import entities.Sec13_comment;
-import entities.Sec13_post;
+import model.entities.Sec13_comment;
+import model.entities.Sec13_post;
 
 public class Sec13_ex2 
 {

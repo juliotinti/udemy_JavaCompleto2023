@@ -3,7 +3,7 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Sec9_account;
+import model.entities.Sec9_account;
 
 public class Sec9_ex1 
 {

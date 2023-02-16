@@ -5,9 +5,9 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Sec14_company;
-import entities.Sec14_individual;
-import entities.Sec14_taxPayer;
+import model.entities.Sec14_company;
+import model.entities.Sec14_individual;
+import model.entities.Sec14_taxPayer;
 
 public class Sec14_ex2 {
 

@@ -3,7 +3,7 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Sec8_currencyConverter;
+import model.entities.Sec8_currencyConverter;
 
 public class Sec8_ex4 {
 

@@ -2,8 +2,8 @@ package application;
 
 import java.time.LocalDate;
 
-import entities.Aula_enum_order;
-import entities.enums.Aula_enum_orderStatus;
+import model.entities.Aula_enum_order;
+import model.enums.Aula_enum_orderStatus;
 
 public class Aula_enum {
 
@@ -13,7 +13,6 @@ public class Aula_enum {
 		System.out.println(order);
 		order.setStatus(Aula_enum_orderStatus.DELIVERED);
 		System.out.println(order);		
-
 	}
 
 }

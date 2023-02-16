@@ -1,4 +1,4 @@
-package entities;
+package model.entities;
 
 public class Sec14_importedProduct extends Sec14_product
 {
