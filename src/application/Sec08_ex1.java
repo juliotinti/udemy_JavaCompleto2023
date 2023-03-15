@@ -3,9 +3,9 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import model.entities.Sec8_rectangle;
+import model.entities.Sec08_rectangle;
 
-public class Sec8_ex1 {
+public class Sec08_ex1 {
 
 	public static void main(String[] args) 
 	{
@@ -13,7 +13,7 @@ public class Sec8_ex1 {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter rectangle width amd height: ");
 		
-		Sec8_rectangle ret = new Sec8_rectangle(); 
+		Sec08_rectangle ret = new Sec08_rectangle(); 
 		ret.width = sc.nextDouble();
 		ret.height = sc.nextDouble();
 		

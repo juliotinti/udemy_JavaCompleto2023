@@ -3,15 +3,15 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import model.entities.Sec8_employee;
+import model.entities.Sec08_employee;
 
-public class Sec8_ex2 {
+public class Sec08_ex2 {
 
 	public static void main(String[] args) 
 	{
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
-		Sec8_employee employee = new Sec8_employee();
+		Sec08_employee employee = new Sec08_employee();
 		System.out.print("Name: ");
 		employee.name = sc.nextLine();
 		System.out.print("\nGross Salary: ");

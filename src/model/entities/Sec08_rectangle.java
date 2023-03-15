@@ -1,6 +1,6 @@
 package model.entities;
 
-public class Sec8_rectangle 
+public class Sec08_rectangle 
 {
 	public double width; 
 	public double height;

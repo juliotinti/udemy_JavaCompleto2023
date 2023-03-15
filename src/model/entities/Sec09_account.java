@@ -1,19 +1,19 @@
 package model.entities;
 
-public class Sec9_account 
+public class Sec09_account 
 {
 	private int number;
 	private String name; 
 	private double totalValue;
 
-	public Sec9_account(int number, String name, double initialDeposit) 
+	public Sec09_account(int number, String name, double initialDeposit) 
 	{
 		this.number = number;
 		this.name = name;
 		Deposit(initialDeposit);
 	}
 	
-	public Sec9_account(int number, String name) 
+	public Sec09_account(int number, String name) 
 	{
 		this.number = number;
 		this.name = name;

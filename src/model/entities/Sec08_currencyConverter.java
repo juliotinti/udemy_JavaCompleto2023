@@ -1,6 +1,6 @@
 package model.entities;
 
-public class Sec8_currencyConverter 
+public class Sec08_currencyConverter 
 {
 
 	public static final double IOF = 0.06; 

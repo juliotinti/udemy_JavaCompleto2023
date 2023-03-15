@@ -1,6 +1,6 @@
 package model.entities;
 
-public class Sec8_student 
+public class Sec08_student 
 {
 	public String name; 
 	public double firstGrade; 

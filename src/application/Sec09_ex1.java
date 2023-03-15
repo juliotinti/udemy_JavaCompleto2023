@@ -3,15 +3,15 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import model.entities.Sec9_account;
+import model.entities.Sec09_account;
 
-public class Sec9_ex1 
+public class Sec09_ex1 
 {
 	public static void main(String[] args) 
 	{
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
-		Sec9_account account;
+		Sec09_account account;
 		int accountNumber;
 		String name;
 		char isInitialDeposit;
@@ -31,10 +31,10 @@ public class Sec9_ex1
 		{
 			System.out.printf("\nEnter initial deposit value: ");
 			accountValue = sc.nextDouble();
-			account = new Sec9_account(accountNumber, name, accountValue);
+			account = new Sec09_account(accountNumber, name, accountValue);
 		}
 		else
-			account = new Sec9_account(accountNumber, name);
+			account = new Sec09_account(accountNumber, name);
 
 		System.out.printf("\n%s\n", account);
 		

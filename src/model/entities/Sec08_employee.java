@@ -1,6 +1,6 @@
 package model.entities;
 
-public class Sec8_employee 
+public class Sec08_employee 
 {
 	public String name; 
 	public double grossSalary;
